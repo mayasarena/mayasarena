@@ -28,8 +28,12 @@
 
 ## GitHub Stats
 
-![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayasarena&theme=material-palenight&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=mayasarena&theme=material-palenight)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mayasarena&theme=material-palenight&show_icons=true" alt="Maya's GitHub Stats" style="margin-right: 20px;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=mayasarena&theme=material-palenight" alt="GitHub Streak" style="height: 195px;">
+    </a>
+</div>
 
 ### Fave Video Games 🎮
 
