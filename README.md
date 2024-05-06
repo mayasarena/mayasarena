@@ -26,14 +26,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-## GitHub Stats
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayasarena&theme=material-palenight&show_icons=true" alt="Maya's GitHub Stats" style="margin-right: 20px; height: 155px;">
-    <img src="https://streak-stats.demolab.com?user=mayasarena&theme=material-palenight" alt="GitHub Streak" style="height: 155px">
-</div>
-
-### Fave Video Games 🎮
+### I Like These Video Games 🎮
 
 <div style="display: flex;">  
   <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg" height="150">
