@@ -2,7 +2,6 @@
   <img align="left" style="margin-right: 20px;" width="200" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG4wZnlvbG1sMXE2YjdvdTB4cTcxYTZ0bHhvZ3VjcGl4b2tueGUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ll6EmgFFqjOR4FIck2/giphy.gif">
   <div>
     <h3>Hi, I'm Maya 🌱</h3>
-    ☁️ I'm currently working on improving my front-end development skills<br>
     💻 I'm currently learning some frameworks: Next.js, Angular<br>
     💗 I'm a new-ish grad with a Master in Computer Science, specialized in HCI<br>
     ✨ Diverse skillset in UX Research, UX Design, and Software Development<br><br>
