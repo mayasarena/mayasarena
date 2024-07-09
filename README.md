@@ -4,7 +4,7 @@
     <h3>Hi, I'm Maya 🌱</h3>
     💻 I'm currently learning some frameworks: Next.js, Angular<br>
     💗 I'm a new-ish grad with a Master in Computer Science, specialized in HCI<br>
-    ✨ Diverse skillset in UX Research, UX Design, and Software Development<br><br>
+    ✨ Diverse skillset in Software Development and UX<br><br>
     <a href="https://www.linkedin.com/in/mayasmurad/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
 </div>
