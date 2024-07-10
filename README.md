@@ -24,13 +24,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### I Like These Video Games 🎮
-
-<div style="display: flex;">  
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg" height="150">
-  <img src="https://images.nintendolife.com/880243a8baed2/switch-tloz-totk-artwork-01.large.jpg" height="150">
-  <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/309441225_198908242504462_7211029735433698297_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DFixATGWxmsQ7kNvgHNCSYq&_nc_ht=scontent-lga3-1.xx&oh=00_AfDYQcSXi5mZGyoBuHmrgWMvLdO4Poy2-igmfdeF3yZvdg&oe=663F2000" height="150">
-  <img src="https://assets1.ignimgs.com/2020/03/10/ori-and-the-will-of-the-wisps---button-fin-1583863235923.jpg" height="150">
-  <img src="https://assets-prd.ignimgs.com/2022/01/08/luigis-mansion-3-button-fin-1641602466276.jpg" height="150">
-</div>
