@@ -1,5 +1,5 @@
 # Hi, I'm Maya 👋
-Software Developer with a passion for frontend dev. I like making cool things.
+Software Developer - I like making cool things.
 
 ## Current Projects
 > 🪴 [Mood Garden](https://github.com/mayasarena/mood-garden) - I'm currently finishing up development of a mood-tracking web app, where the user gets to create a cute garden to visualize their moods.
