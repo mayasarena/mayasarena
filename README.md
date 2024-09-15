@@ -4,6 +4,8 @@ Software Developer - I like making cool things.
 ## Current Projects
 > 🪴 [Mood Garden](https://github.com/mayasarena/mood-garden) - I'm currently finishing up development and testing of a mood-tracking web app, where the user gets to create a cute garden to visualize their moods.
 
+> 🫧 [Bubbles UI](https://github.com/mayasarena/bubbles-ui) - In the early stages of developing a component library for React.
+
 ## Programming Languages and Tech
 React - Node.js - JavaScript - TypeScript - Next.js - Tailwind CSS - HTML/CSS - Python
 
