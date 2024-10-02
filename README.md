@@ -4,7 +4,7 @@
 💬 I enjoy creating user-centered software <br />
 🔥 I have a background in programming and UX <br />
 🎨 I am skilled in both frontend and backend, although I prefer to focus on frontend! <br />
-🏔️ I like hking up mountains (when I get the chance) <br />
+🏔️ I like hiking up mountains (when I get the chance) <br />
 🩷 In my free time, I like cozy gaming, art, and reading fantasy romance novels
 
 ## Current Projects
