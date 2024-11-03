@@ -1,11 +1,5 @@
 # About Me
 👋🏼 Hi, I'm Maya! <br />
-👩🏻‍💻 I have a HBSc in CS and a MCS in HCI <br />
-💬 I enjoy creating user-centered software <br />
-🔥 I have a background in programming and UX <br />
-🎨 I am skilled in both frontend and backend, although I prefer to focus on frontend! <br />
-🏔️ I like hiking up mountains (when I get the chance) <br />
-🩷 In my free time, I like cozy gaming, art, and reading fantasy romance novels
 
 ## Programming Languages and Tech
 React - Node.js - JavaScript - TypeScript - Next.js - Tailwind CSS - HTML/CSS - Python
