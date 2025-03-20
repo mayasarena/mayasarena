@@ -1,9 +1,6 @@
 # About Me
 👋🏼 Hi, I'm Maya! <br />
 
-## Programming Languages and Tech
-React - Node.js - JavaScript - TypeScript - Next.js - Tailwind CSS - HTML/CSS - Python
-
 ## Connect
 - [Website](https://mayasarena.dev) <br />
 - [Linkedin](https://www.linkedin.com/in/mayasmurad/) <br/>
